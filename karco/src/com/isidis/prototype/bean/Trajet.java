@@ -12,6 +12,7 @@ public class Trajet {
 	private String typeVehicule;
 	private Date heureDepart;
 	private Date margeTolere;
+	private int a;
 	
 	public Trajet() { }
 	
